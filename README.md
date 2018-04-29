@@ -1,5 +1,4 @@
 # Hello World!
+My name is connormeadows
 
-my name is connormeadows
-
-I am doing the tutorial to learn how to use the command line aspect of git
+I am learning how to use git
